@@ -199,7 +199,7 @@
 
 ;;; Code:
 
-(defconst package-archive-base "http://tromey.com/elpa/"
+(defconst package-archive-base "http://github.com/Singletoned/package.el/raw/master/packages"
   "Base URL for the package archive.
 Ordinarily you should not need to edit this.
 The default points to ELPA, the Emacs Lisp Package Archive.

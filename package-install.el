@@ -27,7 +27,7 @@
 
 ;; Some values we need, copied from package.el, but with different
 ;; names.
-(let ((my-archive-base "http://tromey.com/elpa/")
+(let ((my-archive-base "http://github.com/Singletoned/package.el/raw/master/elpa/")
       (my-user-dir (expand-file-name "~/.emacs.d/elpa")))
 
   (require 'pp)
